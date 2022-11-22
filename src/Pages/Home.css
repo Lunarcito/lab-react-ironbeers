@@ -1,0 +1,5 @@
+.homecard{
+
+    display:flex;
+    flex-direction: column;
+}
